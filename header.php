@@ -11,6 +11,7 @@
       <a href="portfolio.php">Portfolio</a>
       <a href="pricing.php">Pricing</a>
       <a href="contact.php">Event Booked</a>
+      <a href="profile.php">Profile</a>
    </nav>
 
    <div id="menu-btn" class="fas fa-bars"></div>
